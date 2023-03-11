@@ -1,0 +1,5 @@
+1.Order is placed and confirmed and displayed on the kitchen screen.
+2.Order is being analyzed by the head chef.
+3.Order is then distributed among co chefs.
+4.The food preparation starts.
+5.The plating is done and ready to serve.

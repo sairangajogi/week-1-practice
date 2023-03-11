@@ -1,0 +1,7 @@
+1.customer sit on the chair.
+2.pickup the menu card on the table and place the order.
+3.order taken by the server.
+4.customer order carry to the kitchen department.
+5.order serve to the guest.
+6.system calculates the order's total cost.
+7.customers pay the bill either cash or online.
