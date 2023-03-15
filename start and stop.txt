@@ -1,0 +1,25 @@
+begin
+numeric startvalue,stopvalue
+print("enter startvalue and stopvalue")
+input startvalue
+input stopvalue
+while(startvalue<=stopvalue)
+{
+print("startvalue")
+startvalue++
+}
+end
+
+printing the mid value
+begin
+numeric startvalue,stopvalue,s
+print("enter the startvalue")
+input start value 
+print("enter the stop value")
+input stop value
+while(stop value<=10)
+{
+s=stopvalue-start value/2
+print(s)
+}
+end

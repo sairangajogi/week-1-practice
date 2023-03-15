@@ -1,0 +1,14 @@
+begin
+numeric n,i=1,c=0
+while(n>1){
+if(n%i==0){
+c=c+1
+i++
+if(c=2){
+print("prime number")
+}
+else{
+print("not prime number")
+}
+}
+end

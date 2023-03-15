@@ -1,0 +1,7 @@
+begin
+numeric num=1
+while(num<=n)
+{
+print(num)
+}
+end

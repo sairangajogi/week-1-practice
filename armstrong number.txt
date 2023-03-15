@@ -1,0 +1,16 @@
+begin
+numeric num,r,sum=0,temp
+print("enter the num")
+input
+temp=num
+while(num>0)
+{
+r=num%10
+sum=su(r*r*r)
+num=num/10
+}
+if(temp==sum)
+print("armstrong number")
+else
+print("not armstrong number");
+end

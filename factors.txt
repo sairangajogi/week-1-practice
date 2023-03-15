@@ -1,0 +1,10 @@
+begin
+numeric num,i=1
+print("enter the num")
+input num
+while(i<=num)
+{
+print(i)
+}
+i++
+end
