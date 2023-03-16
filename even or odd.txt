@@ -1,12 +1,17 @@
-begin
-input num1
-print("enter the number")
-if (num%2==0)
-{
-print("enter it is even num")
+import java.util.Scanner;
+
+class Evenorodd {
+  public static void main(String args[]) {
+    Scanner s = new Scanner(System.in);
+
+    int num = 0;
+    System.out.println("Enter the number to check it is even or odd");
+    num = s.nextInt();
+    if (num % 2 == 0) {
+      System.out.println(num + "it is an even number");
+    } else {
+      System.out.println(num + "it is an odd number");
+    }
+
+  }
 }
-else
-{
-print("enter it is odd num")
-}
-end
